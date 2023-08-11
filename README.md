@@ -16,11 +16,7 @@
 
 # 安装&升级
 
-Xray 1.7.5
-
 ```
-// bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
-
 bash <(curl -Ls https://raw.githubusercontent.com/zzzs123/x-ui/master/install.sh)
 ```
 
